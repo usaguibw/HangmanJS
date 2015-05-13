@@ -1,0 +1,105 @@
+#letras {
+	margin-top: 0px;
+	width: 100%;
+	height: 40px;
+	text-align: center;
+	display:inline-block;
+}
+
+#espacios {
+	height: 80px;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	display: inline-block;
+	}
+
+#espacios div {
+	width: 40px;
+	height: 40px;
+	margin-right: 3px;
+	background-color: #FFE6CC;
+	display: inline-block;
+	font-family: montserrat;
+	font-size: 24px;
+	text-align: center;
+	padding: 3px;
+
+}
+
+#instrucciones {
+	font-family: montserrat;
+	font-size: 20px;
+	text-align: center;
+	width: 600px;
+	margin: auto;
+	margin-bottom: 20px;
+
+}
+
+#muneco {
+	width: 201px;
+	height: 300px;
+	margin: auto;
+	margin-bottom: 30px; 
+	background-color: yellow;
+}
+
+#muneco div {
+	display: inline-block;
+}
+#cabeza {
+	width: 200px;
+	height: 100px;
+}
+
+#torso {
+	width: 66px;
+	height: 50px;
+}
+
+#cadera {
+	width: 66px;
+	height: 50px;
+}
+
+#bderecho {
+	width: 66px;
+	height: 100px;
+	float: right;
+	position: relative;
+	bottom: 53px;
+}
+
+#bizquierdo {
+	width: 66px;
+	height: 100px;
+	float: left;
+
+}
+
+#pderecho {
+	width: 100px;
+	height: 100px;
+}
+
+#pizquierdo {
+	width: 100px;
+	height: 100px;
+	float: right;
+	bottom: 104px;
+	position: relative;
+}
+
+#titulo{
+	font-family: montserrat;
+	font-size: 35px;
+	text-align: center;
+}
+.letras {
+	width: 40px;
+	height: 40px;
+	font-family: montserrat;
+	font-size: 24px;
+
+}
